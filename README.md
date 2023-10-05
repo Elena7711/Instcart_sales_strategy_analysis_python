@@ -1,7 +1,7 @@
 # Instcart_sales_strategy_analysis_python
  Instacart, an online grocery store that operates through an app. Instacart already has very good sales, but they want to uncover more information about their sales patterns. Our task is to perform an initial data and exploratory analysis of some of their data in order to derive insights and suggest strategies for better segmentation based on the provided criteria.
  
-# Data
+## Data
 We were provided with datasets that contained all the customer information:
 - Orders
 - Orders_Products_Prior
@@ -9,7 +9,7 @@ We were provided with datasets that contained all the customer information:
 - Customers
 - Departments
 
-# Folders
+## Folders
 The basket analysis was separated into the following folders:
 
 -  Project Management: Contains the Project Brief
